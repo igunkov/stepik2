@@ -1,6 +1,3 @@
-n stepik2
-<<<<<<< HEAD
+# stepik2
 vi
-=======
 ci
->>>>>>> d9f43ee (com2)
